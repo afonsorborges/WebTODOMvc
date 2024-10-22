@@ -1,0 +1,42 @@
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.deps.json
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.runtimeconfig.json
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.pdb
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.csproj.AssemblyReference.cache
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.AssemblyInfoInputs.cache
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.AssemblyInfo.cs
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.csproj.CoreCompileInputs.cache
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\refint\WebTODOMvc.BusinessLogic.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.pdb
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.genruntimeconfig.cache
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\ref\WebTODOMvc.BusinessLogic.dll
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.deps.json
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.runtimeconfig.json
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.dll
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.pdb
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.csproj.AssemblyReference.cache
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.AssemblyInfoInputs.cache
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.AssemblyInfo.cs
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.csproj.CoreCompileInputs.cache
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.dll
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\refint\WebTODOMvc.BusinessLogic.dll
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.pdb
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.genruntimeconfig.cache
+G:\My Drive\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\ref\WebTODOMvc.BusinessLogic.dll
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.deps.json
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.runtimeconfig.json
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.dll
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\bin\Debug\net6.0\WebTODOMvc.BusinessLogic.pdb
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.AssemblyInfo.cs
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.dll
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\refint\WebTODOMvc.BusinessLogic.dll
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.pdb
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\WebTODOMvc.BusinessLogic.genruntimeconfig.cache
+C:\Users\afons\OneDrive\Desktop\WebTODOMvcProject FINAL\WebTODOMvcProject\WebTODOMvc.BusinessLogic\obj\Debug\net6.0\ref\WebTODOMvc.BusinessLogic.dll

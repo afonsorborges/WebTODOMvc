@@ -1,0 +1,79 @@
+﻿@using System.Security.Claims;
+@using WebTODOMvc.BusinessLogic.Models
+@model List<TodoListItem>
+@*
+    
+*@
+@{
+}
+
+<h2>Index</h2>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Done
+            </th>
+            <th>
+                Date
+            </th>
+            <th>
+                Title
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int serialNumber = 1;
+        }
+
+        @foreach (var item in Model.Where(x => x.UserId == User.FindFirst(ClaimTypes.NameIdentifier)?.Value))
+        {
+            <tr>
+                <td>                    
+                    <span>@serialNumber</span>
+                </td>
+                <td>
+                    @*
+                @{
+                string formName = "formCheck" + item.Id;
+                string clickSubmit = "document." + formName + ".submit()";
+                }
+                <form asp-page-handler="Check" asp-route-id="@item.Id" name="@formName">
+                <input type="checkbox" checked="@item.IsDone" onclick="@clickSubmit">
+                </form>
+                *@
+                    <input type="checkbox" checked="@item.IsDone" onclick="window.location.href='/Todo/CheckDoneStatus/@item.Id'">
+                </td>
+                <td>
+                    <span>@item.DateAdded</span>
+                </td>
+                <td>
+                    <span>@item.Title</span>
+                </td>
+                @if (!item.IsDone)
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                }
+                else
+                {
+                    <td></td>
+                }
+            </tr>
+
+            serialNumber++;
+        }
+    </tbody>
+</table>

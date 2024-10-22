@@ -1,0 +1,174 @@
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\appsettings.Development.json
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\appsettings.json
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.staticwebassets.runtime.json
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.exe
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.deps.json
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.runtimeconfig.json
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.pdb
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.csproj.AssemblyReference.cache
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.GeneratedMSBuildEditorConfig.editorconfig
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.AssemblyInfoInputs.cache
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.AssemblyInfo.cs
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.csproj.CoreCompileInputs.cache
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.MvcApplicationPartsAssemblyInfo.cache
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.RazorAssemblyInfo.cache
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.RazorAssemblyInfo.cs
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\staticwebassets\msbuild.WebTODOMvc.Microsoft.AspNetCore.StaticWebAssets.props
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\staticwebassets\msbuild.build.WebTODOMvc.props
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebTODOMvc.props
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebTODOMvc.props
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\staticwebassets.pack.json
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\staticwebassets.build.json
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\staticwebassets.development.json
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\scopedcss\bundle\WebTODOMvc.styles.css
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\scopedcss\projectbundle\WebTODOMvc.bundle.scp.css
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\refint\WebTODOMvc.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.pdb
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.genruntimeconfig.cache
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\ref\WebTODOMvc.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Azure.Core.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Azure.Identity.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Humanizer.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\Mono.TextTemplating.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.CodeDom.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.Memory.Data.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.Text.Json.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\IceDrive\ISCTE\UpSkills\2023\M3\Tmp\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.csproj.CopyComplete
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\appsettings.Development.json
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\appsettings.json
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.staticwebassets.runtime.json
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.exe
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.deps.json
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.runtimeconfig.json
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\WebTODOMvc.pdb
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Azure.Core.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Azure.Identity.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Humanizer.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.CodeDom.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.Memory.Data.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.Text.Json.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.csproj.AssemblyReference.cache
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.GeneratedMSBuildEditorConfig.editorconfig
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.AssemblyInfoInputs.cache
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.AssemblyInfo.cs
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.csproj.CoreCompileInputs.cache
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.MvcApplicationPartsAssemblyInfo.cache
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.RazorAssemblyInfo.cache
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.RazorAssemblyInfo.cs
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\staticwebassets\msbuild.WebTODOMvc.Microsoft.AspNetCore.StaticWebAssets.props
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\staticwebassets\msbuild.build.WebTODOMvc.props
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebTODOMvc.props
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebTODOMvc.props
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\staticwebassets.pack.json
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\staticwebassets.build.json
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\staticwebassets.development.json
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\scopedcss\bundle\WebTODOMvc.styles.css
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\scopedcss\projectbundle\WebTODOMvc.bundle.scp.css
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.csproj.CopyComplete
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\refint\WebTODOMvc.dll
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.pdb
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\WebTODOMvc.genruntimeconfig.cache
+G:\O meu disco\Upskill\Módulo 3\WebTODOMvcProject\WebTODOMvc\obj\Debug\net6.0\ref\WebTODOMvc.dll
